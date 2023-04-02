@@ -1,0 +1,11 @@
+{
+    "C_Cpp.default.forcedInclude": [
+        "/Users/cedricdzido/.vscode/extensions/werk ii gmbh.priint-comet-vscode-42.0.31313/headers/cscript/main.h"
+    ],
+    "C_Cpp.default.includePath": [
+        "/Users/cedricdzido/.vscode/extensions/werk ii gmbh.priint-comet-vscode-42.0.31313/headers/**",
+        "/Users/cedricdzido/.vscode/extensions/werk ii gmbh.priint-comet-vscode-42.0.31313/headers/cscript/header/**",
+        "/Users/cedricdzido/.vscode/extensions/werk ii gmbh.priint-comet-vscode-42.0.31313/headers/cscript/**"
+    ],
+    "C_Cpp.errorSquiggles": "Disabled"
+}
